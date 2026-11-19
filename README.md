@@ -1,3 +1,7 @@
+![News Headline Fetcher — Headlines by country. Stories at the source.](assets/header.svg)
+
+[← Omar’s portfolio](https://github.com/OmarShemis) · [Usage guide](docs/usage.md)
+
 # News Headline Fetcher
 
 A lightweight Python command-line application by Omar Shemis that fetches news headlines from NewsAPI by country and category. Each result includes the article title and a link to the original story.
@@ -85,3 +89,7 @@ The single-file application stays at the root for straightforward execution. See
 - **Missing API key:** Check that `.env` contains `API_KEY` with a value and sits in the project folder.
 - **API error:** Read the message printed by the app and check your key and request inputs.
 - **No articles found:** Try a different country or category combination.
+
+---
+
+Built by [Omar Shemis](https://github.com/OmarShemis) · [Explore more projects](https://github.com/OmarShemis?tab=repositories)
